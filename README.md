@@ -7,9 +7,11 @@
 
 - 💞️ I’m looking to collaborate **On full time to Data Analyst,Bussiness Analyst**
 
-- 🌱 I’m currently learning on **Machine learning and building using project Advanced Python, SQL,Advanced Excel**
+- 🌱 I’m  Skills in **Microsoft PowerBI,Python,SQL,Advanced Excel**
 
-- 📫 How to reach me **parnikazade94@gmail.com**
+- 📒 I am currently **working at Unified Mentor Technology**
+
+- 📫 How to reach me **parnikazade94@gmail.com** And **Linkedin- www.linkedin.com/in/parnika-zade-086b01225**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
