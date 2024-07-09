@@ -11,7 +11,7 @@
 
 - 📒 I am currently **working at Unified Mentor Technology**
 
-- 📫 How to reach me **parnikazade94@gmail.com** And **Linkedin- www.linkedin.com/in/parnika-zade-086b01225**
+- 📫 How to reach me **Email- parnikazade94@gmail.com** And **Linkedin- www.linkedin.com/in/parnika-zade-086b01225**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
