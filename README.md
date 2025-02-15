@@ -1,8 +1,8 @@
 <h align="center">👋 Hi I'm Parnika Zade, working as a Data analyst - Codpix solutions Pvt Ltd INDIA.</h>
 
-<h align="left">Overall having 3+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through PowerBI,MYSQL, developments, KPI reporting and driving business to a higher level.
+<h align="left">Overall having 3+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through PowerBI, MYSQL, developments, KPI reporting and driving business to a higher level.
 
-Having good knowledge of Advanced Excel,SQL,MYSQL,Python & POWERBI.
+Having good knowledge of Advanced Excel, SQL, MYSQL, Python & POWERBI.
 
 Solid understanding of exploratory data analysis using SQL, MYSQL language
 
