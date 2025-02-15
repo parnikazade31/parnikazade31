@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Parnika Zade</h1>
-<h3 align="center">I am a detail-oriented and results-driven Data Analyst with a solid background in transforming complex data sets into actionable insights. With a keen eye for patterns and trends, I specialize in extracting meaningful information to support strategic business decisions.</h3>
+<h1 align="center">👋 Hi I'm Parnika Zade, working as a Data analyst - Codpix solutions Pvt Ltd INDIA.</h1>
+<h3 align="center">Overall having 3+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through PowerBI,MYSQL, developments, KPI reporting and driving business to a higher level.
+
+Having good knowledge of Advanced Excel,SQL,MYSQL,Python & POWERBI.
+
+Having an Advanced understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages and am highly motivated to learn, grow and excel in the Data Science Industry.
+
+Solid understanding of exploratory data analysis using SQL,MYSQL language
+
+Experience working in an Advanced Excel, Mysql,POWERBI
+
+Strong Communication, Presentation, and Interpersonal skills with excellent problem-solving capabilities.
+
+Here are some ideas to get you started:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parnikazade31&label=Profile%20views&color=0e75b6&style=flat" alt="parnikazade31" /> </p>
 
