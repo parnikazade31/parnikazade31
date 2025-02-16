@@ -30,3 +30,6 @@ Additionally, I possess excellent communication, presentation, and problem-solvi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parnikazade31&show_icons=true&locale=en" alt="parnikazade31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parnikazade31&" alt="parnikazade31" /></p>
+git add index.html
+git commit -m "Initial commit"
+git push origin main
