@@ -14,7 +14,7 @@ Additionally, I possess excellent communication, presentation, and problem-solvi
 
 - 🌱 I’m  Skills in **Microsoft PowerBI,Python,SQL, MYSQL, Advanced Excel**
 
-- 📫 How to reach me **Email- zadeparnika31@gmail.com** And **Linkedin- www.linkedin.com/in/parnika-zade-086b01225**
+- 📫 How to reach me **Email- parnikazade94@gmail.com** And **Linkedin- www.linkedin.com/in/parnika-zade-086b01225**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
