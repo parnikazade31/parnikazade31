@@ -1,6 +1,6 @@
-<h align="center">👋 Parnika Zade Data Analyst | Codpix Solutions Pvt Ltd, India
+<h align="center">👋 Parnika Zade Power BI Analyst | Codpix Solutions Pvt Ltd, India
 
-I am a results-driven Data Analyst with over three years of experience in data acquisition, analysis, and insight generation to support business decision-making.
+I am a results-driven  Power BI Analyst with over three years of experience in data acquisition, analysis, and insight generation to support business decision-making.
 
 Proficient in Power BI, MySQL, SQL, Python, and Advanced Excel, I specialize in KPI reporting, exploratory data analysis (EDA), and dashboard development to drive business performance.
 
